@@ -1,5 +1,7 @@
 To-Do List Application
+
 Overview
+
 This is a To-Do List Application built with Python and Tkinter. It allows users to manage their daily tasks efficiently by adding, removing, and marking tasks as completed. Tasks are saved locally in a JSON file, ensuring persistence even after the application is closed.
 
 Features
